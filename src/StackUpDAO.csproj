@@ -9,6 +9,7 @@
         <ObjPath>$(MSBuildProjectDirectory)/$(BaseIntermediateOutputPath)$(Configuration)/$(TargetFramework)/</ObjPath>
     </PropertyGroup>
 
+
     <Target Name="ProtoGeneratedRecognition" AfterTargets="CoreCompile">
         <ItemGroup>
             <Compile Include="$(ObjPath)Protobuf/**/*.cs" />

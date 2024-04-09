@@ -11,7 +11,7 @@ Before you begin, do ensure you have the following installed on your system:
 - Git
 - Node.js
 
-## Project Setup 
+## Project Setup .    
 
 1. Clone the repository
 ```bash

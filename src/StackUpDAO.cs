@@ -5,6 +5,7 @@ using Google.Protobuf.WellKnownTypes;
 using System.Collections.Generic;
 using System.Security.Principal;
 
+
 namespace AElf.Contracts.StackUpDAO
 {
     public class StackUpDAO : StackUpDAOContainer.StackUpDAOBase

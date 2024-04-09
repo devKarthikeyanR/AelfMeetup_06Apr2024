@@ -4,6 +4,7 @@ using AElf.Sdk.CSharp.State;
 
 using AElf.Types;
 
+
 namespace AElf.Contracts.StackUpDAO
 {
     // The state class is access the blockchain state

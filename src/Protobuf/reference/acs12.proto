@@ -3,6 +3,7 @@
  *
  * Used to manage user contract.
  */
+ 
  syntax = "proto3";
  
  package acs12;
